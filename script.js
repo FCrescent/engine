@@ -1,0 +1,2 @@
+Ceci un file js
+
